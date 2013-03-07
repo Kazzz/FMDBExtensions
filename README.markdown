@@ -1,11 +1,11 @@
 #FMDBExtensions
-BlackBeans※ - FMDBExtensionsはiOSのSQLite用ライブラリィであるFMDBとAndroidのSQLiteDatabaseクラスにインスパイアされた作った、iOSのSQLiteデーターペースアクセス用ライブラリィです。
+BlackBeans※ - FMDBExtensionsはiOSのSQLite用ライブラリィであるFMDBとAndroidのSQLiteDatabaseクラスにインスパイアされて書いた、iOSのSQLiteデーターペースアクセス用ライブラリィです。
 
-* * *
 
 
 ## 経緯
 iOSのアプリケーションを開発する際にSQLiteデーターペースを扱うための高次のライブラリィが提供されていない所に、FMDBというオープンソースライブラリィがあることを知り、大変に便利に使わせて頂きました。
+
 ccgus/fmd:
 <https://github.com/ccgus/fmdb>
 
