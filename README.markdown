@@ -4,9 +4,9 @@ FMDBExtensionsはiOSのSQLite用ライブラリィであるFMDBとandroidのSQLi
 
 
 ## 経緯
-iOSのアプリケーションを開発する際にSQLiteデーターペースを扱うための高次のライブラリィが提供されていない所に、FMDBというオープンソースライブラリィがあることを知り、大変に便利に使わせて頂きました。
+iOSのアプリケーションを開発する際にSQLiteデーターペースを扱うための高次のライブラリィが提供されていない所に、FMDBというオープンソースライブラリィがあることを知り、便利に使わせて頂きました。
 
-ccgus/fmd:
+ccgus/fmdb:
 <https://github.com/ccgus/fmdb>
 
 一方でandroidでSQLiteにアクセスする際にはSDK標準で提供されているSQLiteDatabaseクラスを使用してました。SQLをあまり意識せずに使える一連のAPI群は非常に便利であり、生のSQLを書くのが嫌いな私はandroidと同様の使い勝手をFMDBに求めました。それがFMDBExtensionsのきっかけです。
@@ -98,5 +98,5 @@ FMDBと同様にMITライセンスで配布します
 
 
 ## その他
-FMDBを書かれたAugust Mueller氏とgithub、及びコミュニティの皆さんに感謝します。
+FMDBを書かれたAugust Mueller氏とgithub及びコミュニティの皆さんに感謝します。
 
